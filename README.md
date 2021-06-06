@@ -1,4 +1,10 @@
-Hello, I'm Uro256 and I am bad at coding (a bit bad) but It's fun so I don't care.
+error 404 start
+<br>
+<br>
+<b> No things to say found </b>
+<br>
+<br>
+error 404 end
 
 <!---
 Uro256/Uro256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
